@@ -1,0 +1,8 @@
+Github
+Auto Rename Tag
+Code Spell Check
+Color Highlight
+indent-rainbow
+join-lines
+Material icon theme
+Prettier
