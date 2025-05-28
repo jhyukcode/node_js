@@ -331,3 +331,33 @@ const g = gen()
 g.next()
 
 ```
+
+---
+
+5. etc - 스크롤링, faker dummy..
+
+(1) 점검 : eslint
+
+```bash
+npm i -D babel-eslint@10.1.0 eslint-config-airbnb@18.1.0 eslint-plugin-import@2.20.2
+npm i -D eslint-plugin-react-hooks@4.0.4
+npm i -D eslint-plugin-jsx-a11y@6.2.3 --legacy-peer-deps
+```
+
+(2) 아이디 중복검사 shortid
+
+```bash
+npm i shortid@2.2.15 --legacy-peer-deps
+```
+
+(3) 여러줄 코드 줄이기 - immer
+
+```bash
+npm i immer@9.0.19 --legacy-peer-deps
+```
+
+(4) faker
+
+```bash
+npm install --save-dev @faker-js/faker --legacy-peer-deps
+```
