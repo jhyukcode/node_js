@@ -127,7 +127,7 @@ Q7) echo  명령어 위치확인  which  echo
 /var       시스템운영 로그파일
 
 
-* 현재 작업디릭토리
+* 현재 작업디렉토리
 ```
 pwd         
 ```
@@ -743,13 +743,3 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCX7YbsS01xz1KG1ohDsYneic3CWRcqmxpW8e3AFnnn
 
 
 >> 포트폴리오 올리기
-
-
-
-
-
-
-
-
-
-
